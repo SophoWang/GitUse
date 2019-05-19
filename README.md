@@ -4,4 +4,7 @@
 
 ## [MarkDown](http://www.markdown.cn/) Grammar
 
+-----------------------------------------------
+<div class="footer">
 &copy; 2019 SophoWang
+</div>
